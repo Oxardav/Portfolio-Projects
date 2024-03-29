@@ -1,4 +1,5 @@
-Interactive dashboard that can answer questions such as: "Compare average monthly income by education and attrition" or "Check how the distance from home and the role of work influence attrition rate".
+Interactive dashboard that can answer questions such as: "Compare average monthly income by education and attrition" or 
+"Check how the distance from home and the role of work influence attrition rate".
 
 This is a fictional data set created by IBM data scientists.
 data downloaded from: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
